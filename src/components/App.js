@@ -1,23 +1,3 @@
-// import React from 'react'
-
-// export default function App() {
-//     useEffect(() => {
-//         fetch("https://dog.ceo/api/breeds/image/random,")
-//           .then((r) => r.json())
-//           .then(setData);
-//       }, []);
-    
-//       if (!image ){
-//         return <h2>
-//             loading...
-//         </h2>
-//       }
-//   return (
-//     <div>App</div>
-//   )
-// }
-
-
 import React, { useState, useEffect } from "react";
 
 function App() {
